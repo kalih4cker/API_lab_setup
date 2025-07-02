@@ -85,7 +85,7 @@ Import the MITMweb (mitmproxy-ca-cert.pem) certificate.
 ## Install Go
 `sudo apt install golang-go`
 
---
+---
 
 ##  Install Kiterunner
 `sudo git clone  https://github.com/assetnote/kiterunner.git`
@@ -96,7 +96,7 @@ Import the MITMweb (mitmproxy-ca-cert.pem) certificate.
 
 `sudo ln -s /opt/kiterunner/dist/kr /usr/bin/kr`
 
- --
+ ---
 
 ## Hacking-APIs (https://github.com/hAPI-hacker/Hacking-APIs)
 
