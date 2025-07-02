@@ -1,5 +1,6 @@
 # API_lab_setup
 This Repo contain the lab set up for API Pentesting
+
 ---
 
 ## Burp Suite Community Edition
@@ -54,13 +55,13 @@ Stop burpsuite (it's listening on 8080 and mitmweb needs that to work)
 Return to the Firefox certificates (see Burp Suite Certificate instructions).
 
 Import the MITMweb (mitmproxy-ca-cert.pem) certificate.
+
 ---
 
 ## Install Postman
 `sudo wget https://dl.pstmn.io/download/latest/linux64 -O postman-linux-x64.tar.gz && sudo tar -xvzf postman-linux-x64.tar.gz -C /opt && sudo ln -s /opt/Postman/Postman /usr/bin/postman`
 
 ---
-
 
 ## Install Git
 `sudo apt-get install git`
